@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 - 🔭 I’m currently working on my own AI project.
 - 🌱 I’m currently learning java.
 - 👯 I’m NOT looking to collaborate on anything for now.
@@ -9,4 +8,3 @@
 - 📫 How to reach me: there's nothing for now
 - 😄 Pronouns: He/His/
 - ⚡ Fun fact: You expect a fun fact here. Otherwise, why do you keep reading?
--->
