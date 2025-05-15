@@ -7,4 +7,4 @@
 - 💬 Ask me about something, maybe i'll answer.
 - 📫 How to reach me: there's nothing for now
 - 😄 Pronouns: He/His/
-- ⚡ Fun fact: You expect a fun fact here. Otherwise, why do you keep reading?
+- ⚡ Fun fact: You expect a fun fact here, just because i defined it as a section for a fun fact. Otherwise, why do you keep reading?
